@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>130.jpg</filename>
+	<path>/home/ostap/Documents/project/ImageWork/Beta1/Beer/data/image/130.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>beer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>25</ymin>
+			<xmax>597</xmax>
+			<ymax>794</ymax>
+		</bndbox>
+	</object>
+</annotation>
